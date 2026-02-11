@@ -7,6 +7,7 @@
 # Mikael Fridh <frimik@gmail.com>, 2020
 # johnny.westerlund <johnny.westerlund@gmail.com>, 2020
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: foreman_azure_rm 3.0.4\n"

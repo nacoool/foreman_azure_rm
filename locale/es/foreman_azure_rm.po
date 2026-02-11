@@ -11,6 +11,7 @@
 # Bryan Kearney <bryan.kearney@gmail.com>, 2020
 # Amit Upadhye <aupadhye@redhat.com>, 2022
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: foreman_azure_rm 3.0.4\n"
